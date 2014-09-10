@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compliment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="comp0">You look great today!</string>
+    <string name="comp1">You are so beautiful!</string>
+    <string name="comp2"> I love you so much :) </string>
+    <string name="comp3"> את הכי חמודה בעולם! </string>
+    <string name="comp4"> אין עליך! </string>
+    <string name="comp5"> היום את שווה את הכסף :) </string>
+
+</resources>
